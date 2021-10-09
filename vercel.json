@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://play-music-hm71aavri-2674996160-qqcom.vercel.app/:match*"
+      "destination": "https://music-api-8ades91fc-2674996160-qqcom.vercel.app/:match*"
     }
   ]
 }
